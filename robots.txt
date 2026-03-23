@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haertanto.github.io/sitemap.xml
