@@ -1,0 +1,140 @@
+archive_category: 此分类下的文章归档
+archive_tag: 此标签下的文章归档
+archive_year: 该年度文章归档
+blog:
+  navigation_title: 博客
+categories:
+  fun: 兴趣
+  work: 工作
+citation:
+  bibtex: "或以下面的 BibTeX 形式引用："
+  introduction: "如果这些内容对您有帮助，请按如下方式引用："
+contact_note: 欢迎通过以下方式联系我。
+cv:
+  address: 地址
+  area: 地区
+  awarder: 授奖机构
+  awards: 奖项
+  basics: 基本信息
+  certificates: 证书
+  city: 城市
+  countryCode: 国家代码
+  courses: 课程
+  date: 日期
+  education: 教育经历
+  email: 邮箱
+  endDate: 结束时间
+  fluency: 熟练程度
+  highlights: 亮点
+  image: 图片
+  institution: 机构
+  interests: 兴趣
+  issuer: 颁发机构
+  keywords: 关键词
+  label: 标签
+  language: 语言
+  languages: 语言能力
+  level: 级别
+  location: 地点
+  name: 名称
+  network: 平台
+  organization: 单位
+  phone: 电话
+  position: 职位
+  postalCode: 邮编
+  profiles: 个人主页
+  projects: 项目
+  publications: 发表论文
+  publisher: 出版社
+  reference: 推荐人
+  references: 参考信息
+  region: 省份/地区
+  releaseDate: 发布日期
+  score: 分数
+  skills: 技能
+  startDate: 开始时间
+  studyType: 学位类型
+  summary: 简介
+  table_of_contents: 目录
+  title: 标题
+  url: 链接
+  username: 用户名
+  volunteer: 志愿经历
+  work: 工作经历
+footer_text: >
+
+latest_posts: 最新文章
+months:
+  long:
+    january: 一月
+    february: 二月
+    march: 三月
+    april: 四月
+    may: 五月
+    june: 六月
+    july: 七月
+    august: 八月
+    september: 九月
+    october: 十月
+    november: 十一月
+    december: 十二月
+  short:
+    january: 1月
+    february: 2月
+    march: 3月
+    april: 4月
+    may: 5月
+    june: 6月
+    july: 7月
+    august: 8月
+    september: 9月
+    october: 10月
+    november: 11月
+    december: 12月
+news: 新闻
+newsletter:
+  back: 返回
+  error: "出错了，请稍后重试。"
+  subscribe: 订阅
+  subscribed: "您已成功订阅。"
+  subscribe_to_receive: "订阅以接收最新文章通知："
+  too_many_signups: "订阅请求过多，请稍后再试。"
+  wait: "请稍候..."
+no_news: 暂无新闻。
+pagination:
+  page: 页
+post:
+  created_in: 发布于
+  created_by: 作者
+  last_updated: 最后更新于
+references: 参考文献
+related_posts:
+  description: "这里还有一些您可能感兴趣的文章："
+  title: 喜欢这篇文章吗？
+search:
+  dark_theme:
+    description: 将网站主题切换为深色
+    title: 切换到深色模式
+  dropdown: 下拉菜单
+  email: 发送邮件
+  footer:
+    close: 关闭
+    navigate: 导航
+    parent: 返回上一级
+    select: 选择
+  languages: 语言
+  light_theme:
+    description: 将网站主题切换为浅色
+    title: 切换到浅色模式
+  navigation: 导航菜单
+  news: 新闻
+  placeholder: 输入关键词开始搜索
+  posts: 文章
+  projects: 项目
+  socials: 社交链接
+  system_theme:
+    description: 使用系统默认主题
+    title: 使用系统主题
+  theme: 主题
+selected_publications: 代表性论文
+site_description: 面向学者的简洁学术主页主题。
