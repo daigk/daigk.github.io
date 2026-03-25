@@ -100,7 +100,8 @@ a:hover { text-decoration: underline; }
   cursor: pointer;
 }
 
-.hero {
+.hero,
+.page-hero {
   padding: 4.8rem 0 3rem;
 }
 
@@ -171,12 +172,17 @@ h1 {
 
 .profile-card,
 .card,
-.timeline-card {
+.timeline-card,
+.pub-year-block {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   padding: 1.5rem;
   box-shadow: var(--shadow);
+}
+
+.pub-year-block {
+  margin-bottom: 1.25rem;
 }
 
 .avatar {
@@ -196,7 +202,8 @@ h1 {
 .card h2,
 .card h3,
 .timeline-card h3,
-.section h2 {
+.section h2,
+.pub-year-block h2 {
   margin-top: 0;
 }
 
@@ -242,6 +249,14 @@ h1 {
 
 .publication-list li {
   margin-bottom: 1rem;
+}
+
+.publication-list.full li {
+  margin-bottom: 0.85rem;
+}
+
+.more-link {
+  font-weight: 700;
 }
 
 .clean-list {
