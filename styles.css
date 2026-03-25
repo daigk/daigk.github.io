@@ -185,6 +185,16 @@ h1 {
   margin-bottom: 1.25rem;
 }
 
+.profile-photo {
+  width: 100%;
+  max-width: 280px;
+  display: block;
+  margin: 0 auto 1rem;
+  border-radius: 14px;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+}
+
 .avatar {
   width: 74px;
   height: 74px;
