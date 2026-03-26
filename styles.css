@@ -187,10 +187,10 @@ h1 {
 .profile-photo {
   width: 100%;
   max-width: 280px;
+  height: auto;
   display: block;
   margin: 0 auto 1rem;
   border-radius: 14px;
-  object-fit: cover;
   box-shadow: var(--shadow);
 }
 
